@@ -1,0 +1,1 @@
+print("Division:",100/5)
