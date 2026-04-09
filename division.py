@@ -1,1 +1,1 @@
-print("Division:",100/5)
+print("Division:",1000/5)
