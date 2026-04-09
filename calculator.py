@@ -3,3 +3,6 @@
 "Version 1"
 print("Sum:",2+5)
 print("Sub:",5-2)
+
+"Version 2"
+print("Multiplication:",50*2)
